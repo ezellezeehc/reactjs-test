@@ -1,5 +1,5 @@
 # HOW TO RUN THE APP 
-RUN this code in your VS CODe terminal git clone https://github.com/ezellezeehc/reactjs-test.git
+RUN this code in your VS CODe terminal:  git clone https://github.com/ezellezeehc/reactjs-test.git
 #
 RUN npm install
 #
